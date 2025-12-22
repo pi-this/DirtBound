@@ -1,0 +1,22 @@
+{
+  "format_version": "1.20.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "myaddon:dirt_to_wood"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "DD",
+      "DD"
+    ],
+    "key": {
+      "D": {
+        "item": "minecraft:dirt"
+      }
+    },
+    "result": {
+      "item": "minecraft:oak_log",
+      "count": 1
+    }
+  }
+}

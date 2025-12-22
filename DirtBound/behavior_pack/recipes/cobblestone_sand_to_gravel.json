@@ -1,0 +1,25 @@
+{
+  "format_version": "1.20.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "myaddon:cobblestone_sand_to_gravel"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "CS",
+      "SC"
+    ],
+    "key": {
+      "C": {
+        "item": "minecraft:cobblestone"
+      },
+      "S": {
+        "item": "minecraft:sand"
+      }
+    },
+    "result": {
+      "item": "minecraft:gravel",
+      "count": 1
+    }
+  }
+}

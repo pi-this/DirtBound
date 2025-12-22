@@ -1,0 +1,25 @@
+{
+  "format_version": "1.20.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "myaddon:charcoal_gravel_to_coal"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "C",
+      "G"
+    ],
+    "key": {
+      "C": {
+        "item": "minecraft:charcoal"
+      },
+      "G": {
+        "item": "minecraft:gravel"
+      }
+    },
+    "result": {
+      "item": "minecraft:coal",
+      "count": 1
+    }
+  }
+}

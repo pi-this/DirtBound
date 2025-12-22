@@ -1,0 +1,25 @@
+{
+  "format_version": "1.20.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "myaddon:dirt_wood_to_rooted_dirt"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "DW",
+      "WD"
+    ],
+    "key": {
+      "D": {
+        "item": "minecraft:dirt"
+      },
+      "W": {
+        "item": "minecraft:oak_log"
+      }
+    },
+    "result": {
+      "item": "minecraft:rooted_dirt",
+      "count": 1
+    }
+  }
+}

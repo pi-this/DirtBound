@@ -1,0 +1,22 @@
+{
+  "format_version": "1.20.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "myaddon:dirt_wood_to_cobble"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "WWW",
+      "WDW",
+      "WWW"
+    ],
+    "key": {
+      "D": { "item": "minecraft:dirt" },
+      "W": { "item": "minecraft:oak_log" }
+    },
+    "result": {
+      "item": "minecraft:cobblestone",
+      "count": 1
+    }
+  }
+}

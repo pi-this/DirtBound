@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "DirtBound",
+    "description": "Dirt is everything.",
+    "uuid": "60bf481b-0e31-455d-8f6c-4a73d2620e33",
+    "version": [1, 0, 5],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "f5911031-8c0c-442b-8d84-333521a2fd8b",
+      "version": [1, 0, 5]
+    }
+  ]
+}

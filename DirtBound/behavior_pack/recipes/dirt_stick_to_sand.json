@@ -1,0 +1,25 @@
+{
+  "format_version": "1.20.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "myaddon:dirt_stick_to_sand"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "S",
+      "D"
+    ],
+    "key": {
+      "D": {
+        "item": "minecraft:dirt"
+      },
+      "S": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": {
+      "item": "minecraft:sand",
+      "count": 1
+    }
+  }
+}
